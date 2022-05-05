@@ -1,0 +1,234 @@
+d:\мои документы\visual studio 2013\Projects\speed\bin\Debug\speed.exe.config
+d:\мои документы\visual studio 2013\Projects\speed\bin\Debug\speed.exe
+d:\мои документы\visual studio 2013\Projects\speed\bin\Debug\speed.pdb
+d:\мои документы\visual studio 2013\Projects\speed\obj\Debug\speed.Form1.resources
+d:\мои документы\visual studio 2013\Projects\speed\obj\Debug\speed.Properties.Resources.resources
+d:\мои документы\visual studio 2013\Projects\speed\obj\Debug\speed.csproj.GenerateResource.Cache
+d:\мои документы\visual studio 2013\Projects\speed\obj\Debug\speed.exe
+d:\мои документы\visual studio 2013\Projects\speed\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\speed\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\speedGraphics\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\speedGraphics\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\speedGraphics\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\speedGraphics\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\speedGraphics\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\speedGraphics\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\speedGraphics\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\speedGraphics\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\speedGraphics\obj\Debug\speed.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\3D poligonal\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D poligonal\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D poligonal\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D poligonal\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D poligonal\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D poligonal\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D poligonal\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D poligonal\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D poligonal\obj\Debug\speed.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\3D 04 land\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D 04 land\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D 04 land\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D 04 land\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D 04 land\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D 04 land\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D 04 land\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D 04 land\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D 04 land\obj\Debug\speed.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\3D 04.1 land test\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D 04.1 land test\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D 04.1 land test\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D 04.1 land test\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D 04.1 land test\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D 04.1 land test\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D 04.1 land test\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D 04.1 land test\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D 04.1 land test\obj\Debug\speed.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\3D 05.1 land textured+\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D 05.1 land textured+\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D 05.1 land textured+\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D 05.1 land textured+\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D 05.1 land textured+\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D 05.1 land textured+\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D 05.1 land textured+\obj\Debug\speed.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\3D 05.1 land textured+\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D 05.1 land textured+\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.4 box textured\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D X.4 box textured\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.4 box textured\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.4 box textured\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.4 box textured\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.4 box textured\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D X.4 box textured\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.4 box textured\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.4 box textured\obj\Debug\speed.csproj.GenerateResource.Cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\bin\Debug\speed.exe.config
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\obj\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\obj\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\obj\Debug\speed.csprojResolveAssemblyReference.cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\obj\Debug\speed.Form1.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\obj\Debug\speed.Properties.Resources.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\obj\Debug\speed.csproj.GenerateResource.Cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\bin\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\bin\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.4 box textured\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\n13411\Desktop\3D X.4 box textured\bin\Debug\speed.exe.config
+C:\Users\n13411\Desktop\3D X.4 box textured\obj\Debug\speed.exe
+C:\Users\n13411\Desktop\3D X.4 box textured\obj\Debug\speed.pdb
+C:\Users\n13411\Desktop\3D X.4 box textured\bin\Debug\speed.exe
+C:\Users\n13411\Desktop\3D X.4 box textured\bin\Debug\speed.pdb
+C:\Users\n13411\Desktop\3D X.4 box textured\obj\Debug\speed.csprojResolveAssemblyReference.cache
+C:\Users\n13411\Desktop\3D X.4 box textured\obj\Debug\speed.Form1.resources
+C:\Users\n13411\Desktop\3D X.4 box textured\obj\Debug\speed.Properties.Resources.resources
+C:\Users\n13411\Desktop\3D X.4 box textured\obj\Debug\speed.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\3D X.5 box textured\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D X.5 box textured\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.5 box textured\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.5 box textured\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.5 box textured\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.5 box textured\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D X.5 box textured\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.5 box textured\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.5 box textured\obj\Debug\speed.csproj.GenerateResource.Cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\bin\Debug\speed.exe.config
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\obj\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\obj\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\bin\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\bin\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\obj\Debug\speed.csprojResolveAssemblyReference.cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\obj\Debug\speed.Form1.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\obj\Debug\speed.Properties.Resources.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.5 box textured\obj\Debug\speed.csproj.GenerateResource.Cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\bin\Debug\speed.exe.config
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\obj\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\obj\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\bin\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\bin\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\obj\Debug\speed.csprojResolveAssemblyReference.cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\obj\Debug\speed.Form1.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\obj\Debug\speed.Properties.Resources.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.6 long world\obj\Debug\speed.csproj.GenerateResource.Cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.7 long world and inventory\bin\Debug\speed.exe.config
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.7 long world and inventory\obj\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.7 long world and inventory\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.7 long world and inventory\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D X.7 long world and inventory\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.7 long world and inventory\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.7 long world and inventory\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.7 long world and inventory\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.7 long world and inventory\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D X.7 long world and inventory\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.7 long world and inventory\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.7 long world and inventory\obj\Debug\speed.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\3D X.8 optimize 1\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D X.8 optimize 1\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.8 optimize 1\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.8 optimize 1\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.8 optimize 1\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.8 optimize 1\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D X.8 optimize 1\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.8 optimize 1\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.8 optimize 1\obj\Debug\speed.csproj.GenerateResource.Cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\bin\Debug\speed.exe.config
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\obj\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\obj\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\bin\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\bin\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\obj\Debug\speed.csprojResolveAssemblyReference.cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\obj\Debug\speed.Form1.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\obj\Debug\speed.Properties.Resources.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.8 optimize 1\obj\Debug\speed.csproj.GenerateResource.Cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\bin\Debug\speed.exe.config
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\obj\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\obj\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\bin\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\bin\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\obj\Debug\speed.csprojResolveAssemblyReference.cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\obj\Debug\speed.Form1.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\obj\Debug\speed.Properties.Resources.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9 world reload\obj\Debug\speed.csproj.GenerateResource.Cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\bin\Debug\speed.exe.config
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\obj\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\obj\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\obj\Debug\speed.csprojResolveAssemblyReference.cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\obj\Debug\speed.Form1.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\obj\Debug\speed.Properties.Resources.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\obj\Debug\speed.csproj.GenerateResource.Cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\bin\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\bin\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.1 inventory\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.1 inventory\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.1 inventory\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.1 inventory\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.1 inventory\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.1 inventory\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.1 inventory\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.1 inventory\obj\Debug\speed.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.1 inventory\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.1 inventory\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.2. lighting\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.2. lighting\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.2. lighting\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.2. lighting\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.2. lighting\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.2. lighting\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.2. lighting\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.2. lighting\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D X.9.2. lighting\obj\Debug\speed.csproj.GenerateResource.Cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\bin\Debug\speed.exe.config
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\obj\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\obj\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\bin\Debug\speed.exe
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\bin\Debug\speed.pdb
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\obj\Debug\speed.csprojResolveAssemblyReference.cache
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\obj\Debug\speed.Form1.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\obj\Debug\speed.Properties.Resources.resources
+C:\Users\Nikame\Documents\Visual Studio 2015\Projects\3D X.9.2. lighting\obj\Debug\speed.csproj.GenerateResource.Cache
+D:\Мои документы\Visual Studio 2013\Projects\3D 0.0.1. going set - stability\bin\Debug\speed.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\3D 0.0.1. going set - stability\obj\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D 0.0.1. going set - stability\obj\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D 0.0.1. going set - stability\bin\Debug\speed.exe
+D:\Мои документы\Visual Studio 2013\Projects\3D 0.0.1. going set - stability\bin\Debug\speed.pdb
+D:\Мои документы\Visual Studio 2013\Projects\3D 0.0.1. going set - stability\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\3D 0.0.1. going set - stability\obj\Debug\speed.Form1.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D 0.0.1. going set - stability\obj\Debug\speed.Properties.Resources.resources
+D:\Мои документы\Visual Studio 2013\Projects\3D 0.0.1. going set - stability\obj\Debug\speed.csproj.GenerateResource.Cache
